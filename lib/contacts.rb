@@ -25,8 +25,8 @@ def remove_strawberry(contacts)
       name: "Freddy",
       email: "freddy@mercury.com",
       favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
-      binding.pry
      },
+     binding.pry
   }
 
 end
